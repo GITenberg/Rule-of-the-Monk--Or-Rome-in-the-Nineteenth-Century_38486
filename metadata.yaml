@@ -1,0 +1,29 @@
+_repo: Rule-of-the-Monk--Or-Rome-in-the-Nineteenth-Century_38486
+_version: 0.1.0
+alternative_title: Rule of the Monk; Or, Rome in the 19th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garibaldi, Giuseppe
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '2358'
+    url: http://www.gutenberg.org/2009/agents/2358
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Garibaldi
+description: ''
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- Translations into English'
+- !lcsh 'Rome (Italy) -- History -- 1798-1870 -- Fiction'
+- !lcc 'PQ'
+title: Rule of the Monk; Or, Rome in the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/38486
